@@ -1,2 +1,4 @@
-# tsfr-rm
-A retrieval QA model for intelligent customer service
+# TSFR-RM
+## A retrieval QA model for intelligent customer service
+
+## Video demonstrator
